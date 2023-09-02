@@ -1,0 +1,36 @@
+/* .Home{
+    display: flex;
+}
+.Sec{
+display: flex;
+margin: 0 auto;
+flex-wrap: wrap;
+width: 98%;
+justify-content: space-around;
+gap: 8px;
+margin-top: 10px;
+}
+.Cards{
+    line-height: 20px;
+    text-align: center;
+    border-radius: 8px;
+    background: skyblue;
+    width: 250px;
+    height: 470px;
+    padding-top: 10px;
+}
+.Cards img{
+    border-radius: 8px;
+}
+.Cards button{
+    background-color: black;
+    color: white;
+    border: 0;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+
+}
+.Cards button:hover{
+    background-color: rgba(0, 0, 0, 0.874);
+} */

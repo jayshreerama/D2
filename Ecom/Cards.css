@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Petrona&family=Poppins&display=swap');
+*{
+font-family: 'Poppins', sans-serif;
+}
+
+.Home{
+    display: flex;
+}
+.Sec{
+display: flex;
+margin: 0 auto;
+flex-wrap: wrap;
+width: 98%;
+justify-content: space-around;
+gap: 8px;
+margin-top: 10px;
+/* border-radius: 20px; */
+}
+.Logo{
+font-family: 'Lumanosimo', cursive;
+filter: hue-rotate(150deg);
+}
+.Cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: center;
+    border-radius: 8px;
+    background: orange;
+    color: white;
+    width: 300px;
+    padding: 10px 0;
+}
+.Cards img{
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.Cards button{
+    margin: 0 auto;
+    height: 30px;
+    width: 90px;
+    border-radius: 10px;
+    border: 0;
+}
